@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![alt text](./assets/octocat-avatar.jpg =100x100)
+![alt text](./assets/octocat-avatar.jpg){:height="200" width="200px"}
 
 
 
