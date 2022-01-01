@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-# GARY(1) User Manuals GARY(1)
+### GARY(1) User Manuals GARY(1)
 
-normal text
+#### normal text
 
 normal text
 
