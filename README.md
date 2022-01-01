@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![alt text](https://github.com/GaryGealy/GaryGealy/images/octocat-avatar.jpg?raw=true)
+![alt text](https://github.com/GaryGealy/GaryGealy/octocat-avatar.jpg?raw=true)
 
 
 
