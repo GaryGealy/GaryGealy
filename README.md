@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<span style="font-family:courier; font-size:4em;">Unix</span>
+<span style="font-family:roman; font-size:4em;">Unix</span>
 
 <!--
 **GaryGealy/GaryGealy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
