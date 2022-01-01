@@ -7,7 +7,7 @@ This does not work with resize:
 
 -->
 
-<img src="./assets/octocat-avatar.jpg" width="15ß0"> <img src="./assets/running-sql.gif" width="200">
+<img src="./assets/octocat-avatar.jpg" width="150"> <img src="./assets/running-sql.gif" width="200">
 
 <!--
 **GaryGealy/GaryGealy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
