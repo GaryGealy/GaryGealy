@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![alt text](./assets/octocat-avatar.jpg?v=4&s=50)
+![alt text](./assets/octocat-avatar.jpg)
+
+<img src="./assets/octocat-avatar.jpg" width="100" height="100">
 
 
 
