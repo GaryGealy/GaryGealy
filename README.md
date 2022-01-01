@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## GARY(1) User Manuals GARY(1)
+**GARY(1) User Manuals GARY(1)**
 
 ** NAME
 gary - software developer library
