@@ -1,6 +1,9 @@
 ### Hi there 👋
 
+<!--
+This does not work:
 ![alt text](./assets/octocat-avatar.jpg)
+-->
 
 <img src="./assets/octocat-avatar.jpg" width="200">
 
