@@ -7,14 +7,17 @@ normal text
 normal text
 
 NAME
+
 gary - software developer library
 
 SYNOPSIS
+
 gary [-gealy] file ...
 
 DESCRIPTION
 
 OPTIONS
+
 -c
 -h
 -a
