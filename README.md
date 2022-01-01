@@ -1,15 +1,14 @@
 ### Hi there 👋
 
-![sql](./assets/running-sql.gif)
-
 <!--
 This does not work with resize:
 ![alt text](./assets/octocat-avatar.jpg)
+![Running Squirrel](./assets/running-sql.gif)
+
 -->
 
 <img src="./assets/octocat-avatar.jpg" width="200">
-
-
+|
 <img src="./assets/running-sql.gif" width="200">
 
 <!--
