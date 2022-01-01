@@ -1,5 +1,23 @@
 ### Hi there 👋
 
+**GARY(1) User Manuals GARY(1)
+
+**NAME
+gary - software developer library
+
+**SYNOPSIS
+gary [-gealy] file ...
+
+**DESCRIPTION
+
+**OPTIONS 
+-c
+-h
+-a
+
+**CAVEATS
+
+
 <img src="./assets/octocat-avatar.jpg" width="150"> <img height="350" hspace="300"/> <img src="./assets/running-sql.gif" width="200">
 
 <!--
