@@ -1,8 +1,11 @@
 ### Hi there 👋
 
 GARY(1) User Manuals GARY(1)
+
 normal text
+
 normal text
+
 NAME
 gary - software developer library
 
