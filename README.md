@@ -7,8 +7,6 @@ This does not work:
 
 <img src="./assets/octocat-avatar.jpg" width="200">
 
-
-
 <!--
 **GaryGealy/GaryGealy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
