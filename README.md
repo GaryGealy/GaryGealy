@@ -1,13 +1,13 @@
 ### Hi there 👋
 
+![sql](./assets/running-sql.gif)
+
 <!--
 This does not work with resize:
 ![alt text](./assets/octocat-avatar.jpg)
 -->
 
 <img src="./assets/octocat-avatar.jpg" width="200">
-
-![](./assets/running-sql.gif)
 
 <!--
 **GaryGealy/GaryGealy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
