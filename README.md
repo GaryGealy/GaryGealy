@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<span style="font-family:Papyrus; font-size:4em;">Unix</span>
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
+
 
 <!--
 **GaryGealy/GaryGealy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
