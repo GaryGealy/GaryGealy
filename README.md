@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![alt text](./assets/octocat-avatar.jpg?v=4&s=200)
+![alt text](./assets/octocat-avatar.jpg?v=4&s=50)
 
 
 
