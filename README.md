@@ -1,28 +1,26 @@
-### Hi there 👋
-
-### GARY(1) User Manuals GARY(1)
-
-#### normal text
+### GARY(1) <img height="350" hspace="300"/>User Manuals <img height="350" hspace="300"/> GARY(1)
 
 normal text
 
-## NAME
+normal text
+
+### NAME
 
 gary - software developer library
 
-## SYNOPSIS
+### SYNOPSIS
 
 gary [-gealy] file ...
 
-## DESCRIPTION
+### DESCRIPTION
 
-## OPTIONS
+### OPTIONS
 
 -c
 -h
 -a
 
-## CAVEATS
+### CAVEATS
 
 
 <img src="./assets/octocat-avatar.jpg" width="150"> <img height="350" hspace="300"/> <img src="./assets/running-sql.gif" width="200">
