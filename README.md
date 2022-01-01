@@ -1,13 +1,6 @@
 ### Hi there 👋
 
-<!--
-This does not work with resize:
-![alt text](./assets/octocat-avatar.jpg)
-![Running Squirrel](./assets/running-sql.gif)
-
--->
-
-<img src="./assets/octocat-avatar.jpg" width="150"> <img height="350" hspace="50"/> <img src="./assets/running-sql.gif" width="200">
+<img src="./assets/octocat-avatar.jpg" width="150"> <img height="350" hspace="300"/> <img src="./assets/running-sql.gif" width="200">
 
 <!--
 **GaryGealy/GaryGealy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
