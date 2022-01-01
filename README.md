@@ -17,7 +17,9 @@ gary [-gealy] file ...
 ### OPTIONS
 
 -c
+
 -h
+
 -a
 
 ### CAVEATS
