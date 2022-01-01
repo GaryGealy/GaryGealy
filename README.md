@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/GaryGealy/GaryGealy/images/octocat-avatar.jpg?raw=true)
 
 
 
