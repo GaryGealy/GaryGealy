@@ -2,7 +2,7 @@
 
 ![alt text](./assets/octocat-avatar.jpg)
 
-<img src="./assets/octocat-avatar.jpg" width="100">
+<img src="./assets/octocat-avatar.jpg" width="200">
 
 
 
