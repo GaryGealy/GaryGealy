@@ -7,8 +7,6 @@ This does not work:
 
 <img src="./assets/octocat-avatar.jpg" width="200">
 
-<iframe src="https://giphy.com/embed/2ZqbXc4xVr1nAo71XBS" width="480" height="276" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/sbnation-squirrel-2ZqbXc4xVr1nAo71XBS">via GIPHY</a></p>
-
 <!--
 **GaryGealy/GaryGealy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
