@@ -2,7 +2,7 @@
 
 ### NAME
 
-**gary** - learn more from Gary Gealy
+***gary*** - learn more from Gary Gealy
 
 ### SYNOPSIS
 
