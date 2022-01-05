@@ -5,18 +5,20 @@
 
 ### SYNOPSIS
     
-    **gary** [-b --backday] [-h -help] [-l --langs] [-t --tools] [-e --environments]
+    gary [-b --backday] [-h -help] [-l --langs] [-t --tools] [-e --environments]
 
 ### DESCRIPTION
 
-    **gary** has been developing software since the 80's 
+    gary has been developing software since the 80's and still wouldn't 
+    want to do anything else even after 35+ years of banging the keys.
+    
 ### OPTIONS
 
     **-b --backday** 
 
-    gary will give you a short story from his past, usually starting
-    with the phase "Back in the day..." or "I remember when..."
-    ask for sometimes sagely advice from a Dev who's been programming since the 80's
+        gary will give you a short story from his past, usually starting
+        with the phase "Back in the day..." or "I remember when..."
+        ask for sometimes sagely advice from a Dev who's been programming since the 80's
 
     -h --help
 
