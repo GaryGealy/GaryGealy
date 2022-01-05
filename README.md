@@ -1,8 +1,8 @@
-### GARY(1) <img height="10" hspace="50"/>User Manuals <img height="10" hspace="50"/> GARY(1)
+### gary(1) <img height="10" hspace="50"/>User Manuals <img height="10" hspace="50"/> gary(1)
 
 ### NAME
 
-***gary*** - learn more from Gary Gealy
+gary - learn more from Gary Gealy
 
 ### SYNOPSIS
 
