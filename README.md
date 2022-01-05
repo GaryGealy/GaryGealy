@@ -1,13 +1,8 @@
 ### GARY(1) <img height="10" hspace="50"/>User Manuals <img height="10" hspace="50"/> GARY(1)
 
-normal text
-
-normal text
-
 ### NAME
 
-gary - software developer library
-
+gary, gealy - ask for sometimes sagely advice from a guy who's been program the 80's
 ### SYNOPSIS
 
 gary [-gealy] file ...
@@ -16,9 +11,11 @@ gary [-gealy] file ...
 
 ### OPTIONS
 
--c
+-backday 
 
--h
+gary will give you a short story from his past, usually starting with the phase "Back in the day..." or "I remember when..." 
+
+-help
 
 -a
 
