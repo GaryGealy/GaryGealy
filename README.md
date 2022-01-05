@@ -2,24 +2,30 @@
 
 ### NAME
 
-gary, gealy - ask for sometimes sagely advice from a guy who's been program the 80's
+**gary** - learn more from Gary Gealy
+
 ### SYNOPSIS
 
-gary [-gealy] file ...
+**gary** [-b --backday] [-h -help] [-l --langs] [-t --tools] [-e --environments]
 
 ### DESCRIPTION
 
+**gary** has been developing software since the 80's 
 ### OPTIONS
 
--backday 
+**-b --backday** 
 
 gary will give you a short story from his past, usually starting with the phase "Back in the day..." or "I remember when..." 
+ask for sometimes sagely advice from a Dev who's been programming since the 80's
 
--help
+-h --help
 
--a
+-l --langs
 
-### CAVEATS
+-t --tools
+
+-e --environments
+### EXAMPLES
 
 
 <img src="./assets/octocat-avatar.jpg" width="150"> <img height="350" hspace="300"/> <img src="./assets/running-sql.gif" width="200">
