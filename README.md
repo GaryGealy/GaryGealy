@@ -1,4 +1,4 @@
-### GARY(1) <img height="10" hspace="100"/>User Manuals <img height="10" hspace="100"/> GARY(1)
+### GARY(1) <img height="10" hspace="50"/>User Manuals <img height="10" hspace="50"/> GARY(1)
 
 normal text
 
