@@ -1,4 +1,4 @@
-### gary(1) <img height="10" hspace="50"/>User Manuals <img height="10" hspace="50"/> gary(1)
+### gary(1) <img height="10" hspace="50"/>Dev Manual<img height="10" hspace="50"/> gary(1)
 
 ### NAME
     gary - learn more Gary Gealy
