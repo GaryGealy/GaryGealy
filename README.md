@@ -31,8 +31,9 @@
 
 ### SEE ALSO
 
-[linkedin](https://www.linkedin.com/in/ggealy/)
-[blog](https://www.tumblr.com/blog/view/garygealy)
+[gary's linkedin profile](https://www.linkedin.com/in/ggealy/)
+
+[gary's blog](https://www.tumblr.com/blog/view/garygealy)
         
 
 <img src="./assets/running-sql.gif" width="100">
