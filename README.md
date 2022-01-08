@@ -27,12 +27,14 @@
 
     -l --linkedin
         output URL for gary's linkedin account
-        
-        https://www.linkedin.com/in/ggealy/
-        
-        Click [here]: https://www.linkedin.com/in/ggealy/ to go to my LinkedIn profile. 
+       
 
 ### EXAMPLES
+
+ 
+https://www.linkedin.com/in/ggealy/
+        
+Click [here](https://www.linkedin.com/in/ggealy/) to go to my LinkedIn profile. 
 
 <img src="./assets/running-sql.gif" width="100">
 
