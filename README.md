@@ -30,7 +30,7 @@
         
         https://www.linkedin.com/in/ggealy/
         
-        Click [here]( https://www.linkedin.com/in/ggealy/) to go to my LinkedIn profile. 
+        Click [here](https://www.linkedin.com/in/ggealy/) to go to my LinkedIn profile. 
 
 ### EXAMPLES
 
