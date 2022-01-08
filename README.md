@@ -26,10 +26,11 @@
         output URL for gary's attempts are writing blog posts
 
     -l --linkedin
-        output URL for gary's linkedin account.
+        output URL for gary's linkedin account
+        
         https://www.linkedin.com/in/ggealy/
         
-        Click [here](quora.com/profile/Ashish-Kulkarni-100) to go to my Quora profile. 
+        Click [here]( https://www.linkedin.com/in/ggealy/) to go to my LinkedIn profile. 
 
 ### EXAMPLES
 
