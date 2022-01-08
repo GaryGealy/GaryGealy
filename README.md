@@ -14,7 +14,7 @@
     
 ### OPTIONS
 
-    **-b --backday** 
+    ** -b --backday ** 
 
         gary will give you a short story from his past, usually starting
         with the phase "Back in the day..." or "I remember when..."
