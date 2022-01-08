@@ -25,8 +25,8 @@
      -w --writings
         output URL for gary's attempts are writing blog posts
 
-    -l linkedin
-        output URL for gary's linkedin account
+    -l --linkedin
+        output URL for gary's linkedin account. [an example](http://example.com/ "Title")
 
 ### EXAMPLES
 
