@@ -27,7 +27,8 @@
 
     -l --linkedin
         output URL for gary's linkedin account.
-        [test](http://gmail.com)
+        
+        Click [here](quora.com/profile/Ashish-Kulkarni-100) to go to my Quora profile. 
 
 ### EXAMPLES
 
