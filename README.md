@@ -1,4 +1,4 @@
-### gary(1) <img height="10" hspace="50"/>Dev Manual<img height="10" hspace="50"/> gary(1)
+### GARY(7) <img height="10" hspace="50"/>Dev Manual<img height="10" hspace="50"/> GARY(7)
 
 ### NAME
     gary - learn more Gary Gealy
@@ -29,12 +29,11 @@
         output URL for gary's linkedin account
        
 
-### EXAMPLES
+### SEE ALSO
 
- 
-https://www.linkedin.com/in/ggealy/
+[linkedin](https://www.linkedin.com/in/ggealy/)
+[blog](https://www.tumblr.com/blog/view/garygealy)
         
-Click [here](https://www.linkedin.com/in/ggealy/) to go to my LinkedIn profile. 
 
 <img src="./assets/running-sql.gif" width="100">
 
