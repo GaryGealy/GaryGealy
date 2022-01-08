@@ -26,7 +26,8 @@
         output URL for gary's attempts are writing blog posts
 
     -l --linkedin
-        output URL for gary's linkedin account. [an example](http://example.com/ "Title")
+        output URL for gary's linkedin account.
+        [test](http://gmail.com)
 
 ### EXAMPLES
 
