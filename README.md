@@ -23,7 +23,7 @@
         ask for sometimes sagely advice from a Dev who's been programming since the 80's
 
      -w --writings
-        output URL for gary's attempts are writing blog posts
+        output URL for gary's attempts at writing blog posts
 
     -l --linkedin
         output URL for gary's linkedin account
