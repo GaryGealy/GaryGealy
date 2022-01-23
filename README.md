@@ -1,7 +1,7 @@
 ### GARY(7) <img height="10" hspace="50"/>Dev Manual<img height="10" hspace="50"/> GARY(7)
 
 ### NAME
-    gary - learn more Gary Gealy
+    gary - learn more about Gary Gealy
 
 ### SYNOPSIS
     
