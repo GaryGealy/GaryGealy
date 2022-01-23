@@ -21,7 +21,7 @@
      
      -s --sage
      
-        ask for sometimes sagely advice from a Dev who's been programming since the 80's
+        ask for sometimes sagely advice from a Dev who's been programming for longer the a hot minute
 
      -w --writings
      
