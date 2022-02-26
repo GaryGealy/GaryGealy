@@ -36,7 +36,7 @@
 
 [Gary's linkedin profile](https://www.linkedin.com/in/ggealy/)
 
-[Gary's blog](https://www.tumblr.com/blog/view/garygealy)
+[Gary's blog](https://allegroig.com/)
         
 
 <img src="./assets/running-sql.gif" width="100">
