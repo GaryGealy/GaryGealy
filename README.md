@@ -36,7 +36,7 @@
 
 [Gary's linkedin profile](https://www.linkedin.com/in/ggealy/)
 
-[Gary's professional site](https://allegroig.com/)
+[Professional Profile](https://allegroig.com/)
         
 
 <img src="./assets/running-sql.gif" width="100">
